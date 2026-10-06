@@ -1,0 +1,6 @@
+{
+  "name": "StudyPilot – AI Smart Study Planner & Task Manager",
+  "description": "Intelligent academic planner that converts college student workload into adaptive daily and weekly study schedules with smart priority scoring, focus Pomodoro, and AI task breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
